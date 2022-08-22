@@ -1,0 +1,22 @@
+id,name,relationship,relative,relativename
+Q104828519,Dhi Yazan bin Haitham,father,Q12250314,Haitham bin Tarik Al Said
+Q104828519,Dhi Yazan bin Haitham,mother,Q97933143,Ahad bint Abdullah
+Q104828519,Dhi Yazan bin Haitham,sibling,Q105924906,Bilarab bin Haitham Al-Said
+Q12250314,Haitham bin Tarik Al Said,child,Q104828519,Dhi Yazan bin Haitham
+Q12250314,Haitham bin Tarik Al Said,child,Q105924906,Bilarab bin Haitham Al-Said
+Q12250314,Haitham bin Tarik Al Said,father,Q16126525,Tariq bin Taimur
+Q12250314,Haitham bin Tarik Al Said,mother,Q81863531,Shawana bint Hammoud bin Ahmed Al Busaidia
+Q12250314,Haitham bin Tarik Al Said,sibling,Q59660242,Asa'ad bin Tariq bin Taimur al Said
+Q12250314,Haitham bin Tarik Al Said,sibling,Q81686943,Shihab bin Tariq al-Said
+Q12250314,Haitham bin Tarik Al Said,sibling,Q81691428,Sayyida Nawal
+Q12250314,Haitham bin Tarik Al Said,spouse,Q97933143,Ahad bint Abdullah
+Q57331,Qaboos bin Said Al Said,father,Q879869,Said bin Taimur
+Q57331,Qaboos bin Said Al Said,mother,Q254361,Mazoon al-Mashani
+Q57331,Qaboos bin Said Al Said,spouse,Q81691428,Sayyida Nawal
+Q57331,Qaboos bin Said Al Said,spouse,Q82904705,Sheikha Aisha bint Ahmed Al-Harithiya
+Q59660242,Asa'ad bin Tariq bin Taimur al Said,child,Q16120011,Taimur bin Assad bin Tariq al-Said
+Q59660242,Asa'ad bin Tariq bin Taimur al Said,father,Q16126525,Tariq bin Taimur
+Q59660242,Asa'ad bin Tariq bin Taimur al Said,mother,Q81863531,Shawana bint Hammoud bin Ahmed Al Busaidia
+Q59660242,Asa'ad bin Tariq bin Taimur al Said,sibling,Q12250314,Haitham bin Tarik Al Said
+Q59660242,Asa'ad bin Tariq bin Taimur al Said,sibling,Q81686943,Shihab bin Tariq al-Said
+Q59660242,Asa'ad bin Tariq bin Taimur al Said,sibling,Q81691428,Sayyida Nawal
