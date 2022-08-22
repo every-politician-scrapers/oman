@@ -1,4 +1,5 @@
 position,person,personID,start,end
+Sultan,Qaboos bin Said Al Said,Q57331,1970-07-23,2020-01-10
 Sultan,Haitham bin Tarik Al Said,Q12250314,2020-01-11,
 Crown Prince,Dhi Yazan bin Haitham,Q104828519,2021-01-12,
 Deputy Prime Minister,Fahd bin Mahmoud al Said,Q5429529,1972-06-23,
@@ -8,8 +9,13 @@ Minister of Commerce and Industry,Ali bin Masoud al Sunaidy,Q59268429,2020-08,
 "Minister of Culture, Sports and Youth",Dhi Yazan bin Haitham,Q104828519,2020-08-18,
 Minister of Defence,Sayyid Badr bin Saud al Busaidi,Q7429365,2004,
 Minister of Education,Madeeha bint Ahmed bin Nassir al Shibaniyah,Q43287478,2011,
+Minister of Finance,Darwish bin Ismail al-Balushi,Q108864719,2011-03,2020-08
+Minister of Finance,Haitham bin Tarik Al Said,Q12250314,2020-01-11,2020-08-18
 Minister of Finance,Sultan bin Salem bin Saeed al-Habsi,Q108864704,2020-08,
+Minister of Foreign Affairs,Yusuf bin Alawi bin Abdullah,Q58267,1997,2020-08-18
+Minister of Foreign Affairs,Haitham bin Tarik Al Said,Q12250314,2020-01-11,2020-08-18
 Minister of Foreign Affairs,Sayyid Badr bin Hamad bin Hamood AlBusaidi,Q98456849,2020-08-18,
+Minister of Heritage and Culture,Haitham bin Tarik Al Said,Q12250314,2002-03,2020-03-01
 Minister of Higher Education,Rawya Saud Al Busaidi,Q7297086,2004-03-08,
 Minister of the Interior,Sayyid Hamoud bin Faisal al Busaidi,Q59660255,2018,
 Governor of Al Buraimi,Sayyid Saud bin Hilal bin Hamad al-Busaidi,Q106854887,2020-08,
