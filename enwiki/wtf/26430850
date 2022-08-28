@@ -156,13 +156,6 @@
           "inline": {}
         },
         {
-          "url": "http://encyclopedia.jrank.org/articles/pages/5489/Al-Bu-Sa-id-Badr-Bin-Hamad-Bin-Hamood-1960.htm",
-          "title": "Al Bu Sa'id, Badr Bin Hamad Bin Hamood (1960–) - PERSONAL HISTORY, INFLUENCES AND CONTRIBUTIONS, BIOGRAPHICAL HIGHLIGHTS, PERSONAL CHRONOLOGY:, THE WORLD'S PERSPECTIVE, LEGACY",
-          "website": "encyclopedia.jrank.org",
-          "template": "citation",
-          "type": "web"
-        },
-        {
           "url": "http://www.medrc.org/index.cfm?area=about&page=Executive_Council2",
           "title": "Desalination Training Center, Educational International Organization, Middle East Technology - medrc.org",
           "website": "www.medrc.org",
@@ -236,14 +229,13 @@
           ]
         }
       ],
-      "references": [
+      "templates": [
         {
-          "url": "http://encyclopedia.jrank.org/articles/pages/5489/Al-Bu-Sa-id-Badr-Bin-Hamad-Bin-Hamood-1960.html",
-          "title": "Al Bu Sa'id, Badr Bin Hamad Bin Hamood (1960–) - PERSONAL HISTORY, INFLUENCES AND CONTRIBUTIONS, BIOGRAPHICAL HIGHLIGHTS, PERSONAL CHRONOLOGY:, THE WORLD'S PERSPECTIVE, LEGACY",
-          "website": "encyclopedia.jrank.org",
-          "template": "citation",
-          "type": "web"
-        },
+          "date": "August 2022",
+          "template": "cn"
+        }
+      ],
+      "references": [
         {
           "template": "citation",
           "type": "inline",
