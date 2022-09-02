@@ -6,6 +6,7 @@
     "1990 births",
     "20th-century Omani people",
     "Alumni of Oxford Brookes University",
+    "Graduates of the Royal Military Academy Sandhurst",
     "Culture ministers of Oman",
     "Sports ministers of Oman",
     "Heirs apparent",
@@ -107,6 +108,15 @@
           "office1": {
             "text": "Crown Prince of the Sultanate of Oman"
           },
+          "monarch1": {
+            "text": "Haitham bin Tariq",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Haitham bin Tariq"
+              }
+            ]
+          },
           "term_start1": {
             "text": "January 13, 2021"
           },
@@ -116,7 +126,7 @@
           "term_start2": {
             "text": "August 18, 2020"
           },
-          "primeminister1": {
+          "primeminister2": {
             "text": "Sultan Haitham bin Tariq"
           },
           "birth_date": {
@@ -156,6 +166,31 @@
               {
                 "type": "internal",
                 "page": "Ahad bint Abdullah"
+              }
+            ]
+          },
+          "alma_mater": {
+            "text": "Oxford Brookes University Royal Military Academy Sandhurst",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Oxford Brookes University"
+              },
+              {
+                "type": "internal",
+                "page": "Royal Military Academy Sandhurst"
+              }
+            ]
+          },
+          "blank1": {
+            "text": "Religion"
+          },
+          "data1": {
+            "text": "Ibadi Islam",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ibadi Islam"
               }
             ]
           }
@@ -247,7 +282,18 @@
               "text": "Theyazin has been Minister of Culture, Sports and Youth since 18 August 2020."
             },
             {
-              "text": "He previously worked at the Omani Embassy in London for five years from 2014."
+              "text": "He previously worked at the Omani Embassy in London for five years from 2014.",
+              "links": [
+                {
+                  "text": "Omani Embassy",
+                  "type": "internal",
+                  "page": "Embassy of Oman, London"
+                },
+                {
+                  "type": "internal",
+                  "page": "London"
+                }
+              ]
             },
             {
               "text": "He has also worked at the foreign ministry from 2013, according to Omani media."
