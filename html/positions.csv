@@ -1,7 +1,11 @@
 id,position,country,jurisdiction,deputy,list,start,end,before,after,enwiki
-Q28478447,Sultan of Oman,Q842,Q842,,Q742996,,,,,
+Q112245180,,,,,,,,,,
+Q112245188,,,,,,,,,,
 Q105085799,Crown Prince of Oman,Q842,Q842,,,,,,,Crown Prince of Oman
 Q108798170,Deputy Prime Minister of Oman,Q842,Q842,,,,,,,
+Q108864751,Governor of Al Buraimi,Q842,Q852039,,,,,,,
+Q21328587,Member of the Consultative Assembly of Oman,Q842,Q842,,,,,,,
+Q21328599,Member of the Council of State of Oman,Q842,Q842,,,,,,,
 Q108864748,Minister of Civil Service,,Q842,,,,,,,
 Q108864795,Minister of Commerce and Industry,,Q842,,,,,,,
 Q108798192,"Minister of Culture, Sports and Youth",Q842,Q842,,,,,,,
@@ -12,4 +16,8 @@ Q108730677,Minister of Foreign Affairs of Oman,Q842,Q842,,,,,,,
 Q108864733,Minister of Heritage and Culture,,Q842,,,,,,,
 Q108864680,Minister of Higher Education of Oman,,Q842,,,,,,,
 Q108864685,Minister of the Interior of Oman,,Q842,,,,,,,
-Q108864751,Governor of Al Buraimi,Q842,Q852039,,,,,,,
+Q30593536,Omani Ambassador to the United States,Q842,,,,,,,,List of ambassadors of Oman to the United States
+Q30622074,Omani ambassador to China,,,,,,,,,List of ambassadors of Oman to China
+Q107428753,Omani ambassador to Qatar,Q842,,,,,,,,
+Q28478447,Sultan of Oman,Q842,Q842,,Q742996,,,,,
+Q91936084,ambassador of Oman to the United Kingdom,Q842,,,,,,,,
