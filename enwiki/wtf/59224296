@@ -1,0 +1,116 @@
+{
+  "title": "Sayyid Hamoud bin Faisal al Busaidi",
+  "pageID": 59224296,
+  "categories": [
+    "Living people",
+    "Interior ministers of Oman",
+    "Omani Muslims",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Sayyid Hamoud bin Faisal al Busaidi is an Omani politician and businessman.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Omani"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Sayyid Hamoud bin Faisal al Busaidi"
+                ]
+              }
+            },
+            {
+              "text": "He is the Minister of Interior in the Sultanate of Oman.",
+              "links": [
+                {
+                  "text": "Sultanate of Oman",
+                  "type": "internal",
+                  "page": "Oman"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "May 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "description": "Omani politician and businessman",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Sayyid Hamoud bin Faisal al-Busaidi"
+          },
+          "appointer": {
+            "text": "Sultanate of Oman",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sultanate of Oman"
+              }
+            ]
+          },
+          "monarch": {
+            "text": "Qaboos bin Said al Said",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Qaboos bin Said al Said"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Minister of Interior"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://www.muscatdaily.com/Archive/Oman/H-E-Sayyid-Hamoud-calls-Kuwaiti-minister-extends-support-during-adverse-weather-conditions-5bzw",
+          "title": "H E Sayyid Hamoud calls Kuwaiti minister, extends support during adverse weather conditions – Oman",
+          "last": "Newspaper",
+          "first": "Muscat Daily",
+          "work": "Muscat Daily News",
+          "access-date": "2 December 2018",
+          "language": "en",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.gulf-times.com/story/611211/Amir-meets-Omani-interior-minister",
+          "title": "Amir meets Omani interior minister",
+          "date": "30 October 2018",
+          "work": "Gulf-Times",
+          "access-date": "2 December 2018",
+          "language": "ar",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "oman-bio-stub"
+        }
+      ]
+    }
+  ]
+}

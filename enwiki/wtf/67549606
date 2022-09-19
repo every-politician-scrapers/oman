@@ -1,0 +1,130 @@
+{
+  "title": "Sayyid Saud bin Hilal bin Hamad al-Busaidi",
+  "pageID": 67549606,
+  "categories": [
+    "Living people",
+    "Florida Institute of Technology alumni",
+    "Government ministers of Oman",
+    "People from Muscat, Oman",
+    "Alumni of Royal Holloway, University of London",
+    "Victoria University, Melbourne alumni",
+    "Vodafone people",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Sayyid Saud bin Hilal bin Hamad al-Busaidi is the Governor of Al Buraimi Governorate in Oman since August 2020.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Al Buraimi Governorate"
+                },
+                {
+                  "type": "internal",
+                  "page": "Oman"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Sayyid Saud bin Hilal bin Hamad al-Busaidi"
+                ]
+              }
+            },
+            {
+              "text": "He is also an executive at Vodafone Oman.",
+              "links": [
+                {
+                  "text": "Vodafone Oman",
+                  "type": "internal",
+                  "page": "Vodafone"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Omani diplomat",
+          "template": "short description"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Sayyid Saud bin Hilal bin Hamad al-Busaidi"
+          },
+          "office": {
+            "text": "Governor of Al Buraimi"
+          },
+          "term_start": {
+            "text": "August 2020"
+          },
+          "monarch": {
+            "text": "Haitham bin Tariq",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Haitham bin Tariq"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "Personal life",
+      "depth": 0
+    },
+    {
+      "title": "Early life",
+      "depth": 1,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Al Busaidi graduated from Florida Institute of Technology, Melbourne, Florida, United States in 2000, Royal Holloway, University of London in 2006 and Victoria University, Melbourne, Australia in 2012.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Florida Institute of Technology"
+                },
+                {
+                  "type": "internal",
+                  "page": "Royal Holloway, University of London"
+                },
+                {
+                  "type": "internal",
+                  "page": "Victoria University, Melbourne"
+                }
+              ]
+            }
+          ]
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,165 @@
+{
+  "title": "Fahd bin Mahmoud al Said",
+  "pageID": 18040925,
+  "categories": [
+    "Al Said dynasty",
+    "1940 births",
+    "Living people",
+    "People from Muscat, Oman",
+    "Omani Ibadi Muslims",
+    "Government ministers of Oman",
+    "20th-century Omani people"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Sayyid Fahd bin Mahmoud Al-Said (فهد بن محمود آل سعيد; born 1940) is the Deputy Prime Minister for the Council of Ministers in the Sultanate of Oman, and has served in this post since 23 June 1972.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Sayyid"
+                },
+                {
+                  "type": "internal",
+                  "page": "Oman"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Fahd bin Mahmoud Al-Said"
+                ]
+              }
+            },
+            {
+              "text": "He was also the spokesperson of the Royal Family Council at least on the extraordinary session upon the death of Sultan Qaboos bin Said.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Qaboos bin Said"
+                }
+              ]
+            }
+          ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "Sayyid Fahd is married to a French Woman and has a son and a daughter, Kamel bin Fahd and Mona bint Fahd."
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Omani politician",
+          "template": "short description"
+        },
+        {
+          "birth_year": "1940",
+          "template": "birth year and age"
+        }
+      ],
+      "infoboxes": [
+        {
+          "image": {
+            "text": "Sayyid Fahd bin Mahmoud al Said (cropped).png"
+          },
+          "caption": {
+            "text": "Sayyid Fahd bin Mahmoud Al Said (2007)"
+          },
+          "office": {
+            "text": "Deputy Prime Minister of Oman",
+            "links": [
+              {
+                "text": "Deputy Prime Minister of Oman",
+                "type": "internal",
+                "page": "List of rulers of Oman"
+              }
+            ]
+          },
+          "term_start": {
+            "text": "23 June 1972"
+          },
+          "monarch": {
+            "text": "Qaboos bin Said Haitham bin Tariq",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Qaboos bin Said"
+              },
+              {
+                "type": "internal",
+                "page": "Haitham bin Tariq"
+              }
+            ]
+          },
+          "primeminister": {
+            "text": "Sultan Qaboos Sultan Haitham"
+          },
+          "birth_date": {
+            "text": "1940 (age 82)"
+          },
+          "birth_place": {
+            "text": "Muscat, Oman",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Muscat"
+              },
+              {
+                "type": "internal",
+                "page": "Oman"
+              }
+            ]
+          },
+          "party": {
+            "text": "Independent",
+            "links": [
+              {
+                "text": "Independent",
+                "type": "internal",
+                "page": "Independent politician"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "http://www.omanet.om/english/government/ministers.asp?cat=gov",
+          "title": "Cabinet Ministers",
+          "publisher": "Government of Oman",
+          "accessdate": "13 October 2010",
+          "url-status": "dead",
+          "archiveurl": "https://web.archive.org/web/20131222023634/http://www.omanet.om/english/government/ministers.asp?cat=gov",
+          "archivedate": "22 December 2013",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "reflist"
+        },
+        {
+          "template": "oman-bio-stub"
+        }
+      ]
+    }
+  ]
+}

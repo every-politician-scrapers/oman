@@ -1,0 +1,124 @@
+{
+  "title": "Khalid bin Omar bin Said al Marhoon",
+  "pageID": 59225189,
+  "categories": [
+    "Living people",
+    "Government ministers of Oman",
+    "Omani Muslims",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Khalid bin Omar bin Said al Marhoon is an Omanis politician and governor of Muscat.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Omanis"
+                },
+                {
+                  "type": "internal",
+                  "page": "Muscat"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Khalid bin Omar bin Said al Marhoon"
+                ]
+              }
+            },
+            {
+              "text": "He is the Minister of Civil Service in the Sultanate of Oman.",
+              "links": [
+                {
+                  "text": "Minister of Civil Service",
+                  "type": "internal",
+                  "page": "Ministry of Civil Service (Oman)"
+                },
+                {
+                  "text": "Sultanate of Oman",
+                  "type": "internal",
+                  "page": "Oman"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "date": "May 2021",
+          "template": "use dmy dates"
+        },
+        {
+          "date": "December 2018",
+          "template": "orphan"
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Khalid bin Omar bin Said al Marhoon"
+          },
+          "office": {
+            "text": "Minister of Civil Service"
+          },
+          "appointer": {
+            "text": "Sultanate of Oman",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sultanate of Oman"
+              }
+            ]
+          },
+          "monarch": {
+            "text": "Qaboos bin Said al Said",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Qaboos bin Said al Said"
+              }
+            ]
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://timesofoman.com/article/485114",
+          "title": "Oman, Saudi civil service ministers hold bilateral talks",
+          "work": "Times of Oman",
+          "access-date": "2 December 2018",
+          "language": "en-GB",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.muscatdaily.com/Archive/Oman/Sayyid-Asaad-presides-over-ARADO-meet-on-sustainable-development-goals-5c6d",
+          "title": "Sayyid Asaad presides over ARADO meet on sustainable development goals – Oman",
+          "last": "Newspaper",
+          "first": "Muscat Daily",
+          "work": "Muscat Daily News",
+          "access-date": "2 December 2018",
+          "language": "en",
+          "template": "citation",
+          "type": "news"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "oman-bio-stub"
+        }
+      ]
+    }
+  ]
+}
