@@ -23,7 +23,7 @@
         {
           "sentences": [
             {
-              "text": "Haitham bin Tariq Al Said (هيثم بن طارق آل سعيد; born 11 October 1954  ) is the current Sultan of Oman.",
+              "text": "Haitham bin Tariq Al Said (هيثم بن طارق آل سعيد; born 11 October 1954  ) is the current Sultan of Oman",
               "links": [
                 {
                   "type": "internal",
@@ -933,6 +933,9 @@
         },
         {
           "sentences": []
+        },
+        {
+          "sentences": []
         }
       ],
       "lists": [
@@ -1008,6 +1011,27 @@
               }
             ]
           }
+        ],
+        [
+          {
+            "text": "🇦🇪 United Arab Emirates:",
+            "links": [
+              {
+                "text": "United Arab Emirates",
+                "type": "internal",
+                "page": "united arab emirates"
+              }
+            ]
+          },
+          {
+            "text": "Order Zayed rib.png Collar of the Order of Zayed (27 September 2022)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Order of Zayed"
+              }
+            ]
+          }
         ]
       ],
       "references": [
@@ -1053,6 +1077,15 @@
           "language": "en",
           "template": "citation",
           "type": "news"
+        },
+        {
+          "date": "2022-09-27",
+          "title": "UAE President, the Sultan of Oman exchange medals and gifts",
+          "url": "http://wam.ae/en/details/1395303087494",
+          "access-date": "2022-09-27",
+          "website": "wam",
+          "template": "citation",
+          "type": "web"
         }
       ]
     },
