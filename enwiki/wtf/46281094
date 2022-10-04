@@ -128,9 +128,9 @@
           "template": "labeldata"
         },
         {
-          "year": "1954",
+          "year": "1955",
           "month": "10",
-          "day": "11",
+          "day": "12",
           "df": "y",
           "template": "birth date and age"
         },
@@ -275,7 +275,7 @@
             "text": "1986 – 1994"
           },
           "birth_date": {
-            "text": "October 11, 1954"
+            "text": "October 12, 1955"
           },
           "birth_place": {
             "text": "Muscat, Oman",
