@@ -933,13 +933,29 @@
         },
         {
           "sentences": []
-        },
-        {
-          "sentences": []
         }
       ],
       "lists": [
         [
+          {
+            "text": "🇯🇴 Jordan",
+            "links": [
+              {
+                "text": "Jordan",
+                "type": "internal",
+                "page": "jordan"
+              }
+            ]
+          },
+          {
+            "text": "JOR Order of the Renaissance GC.SVG Grand Cordon of the Supreme Order of the Renaissance (4 October 2022)",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Supreme Order of the Renaissance"
+              }
+            ]
+          },
           {
             "text": "🇸🇦 Saudi Arabia:",
             "links": [
@@ -958,9 +974,7 @@
                 "page": "Order of Abdulaziz al Saud"
               }
             ]
-          }
-        ],
-        [
+          },
           {
             "text": "🇬🇧 United Kingdom:",
             "links": [
@@ -1035,6 +1049,12 @@
         ]
       ],
       "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
         {
           "title": "Sultan Haitham in Saudi Arabia in first visit by Omani leader in over a decade",
           "url": "https://gulfnews.com/world/gulf/oman/sultan-haitham-in-saudi-arabia-in-first-visit-by-omani-leader-in-over-a-decade-1.80581926",
