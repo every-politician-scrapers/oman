@@ -1,0 +1,19 @@
+{
+    "jurisdiction": {
+        "name": "Oman",
+        "id": "Q842"
+    },
+    "cabinet": {
+        "start":  "2022-06-16",
+        "end":    "2022-06-30",
+        "parent": "Q5015541"
+    },
+    "reference": {
+        "P248": "Q114398425",
+        "P304": "481"
+    },
+    "lang": "en",
+    "person_description": {
+        "en": "Omani politician"
+    }
+}
