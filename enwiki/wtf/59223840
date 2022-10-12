@@ -1,0 +1,128 @@
+{
+  "title": "Sultan bin Mohammed al Nu'amani",
+  "pageID": 59223840,
+  "categories": [
+    "Living people",
+    "Government ministers of Oman",
+    "People from Muscat, Oman",
+    "Year of birth missing (living people)"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Sultan bin Mohammed al Numani is the Minister of the Royal Office in the Sultanate of Oman.",
+              "links": [
+                {
+                  "text": "Sultanate of Oman",
+                  "type": "internal",
+                  "page": "Oman"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Sultan bin Mohammed al Numani"
+                ]
+              }
+            },
+            {
+              "text": "He is the acting chairman of the Defence Council, so it was he who chaired the extraordinary measures upon the death of sultan Qaboos, and it was he who was entrusted to open his will containing the name of Haitham bin Tariq.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Haitham bin Tariq"
+                }
+              ]
+            }
+          ]
+        }
+      ],
+      "infoboxes": [
+        {
+          "name": {
+            "text": "Sultan bin Mohammed al Nu'amani"
+          },
+          "appointer": {
+            "text": "Sultanate of Oman",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Sultanate of Oman"
+              }
+            ]
+          },
+          "country": {
+            "text": "Oman",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Oman"
+              }
+            ]
+          },
+          "monarch": {
+            "text": "Qaboos bin Said al Said Haitham bin Tariq Al Said",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Qaboos bin Said al Said"
+              },
+              {
+                "type": "internal",
+                "page": "Haitham bin Tariq Al Said"
+              }
+            ]
+          },
+          "office1": {
+            "text": "Minister of Royal Office"
+          }
+        }
+      ],
+      "references": [
+        {
+          "url": "https://timesofoman.com/article/450241/Oman/Government/His-Majesty-Sultan-Qaboos-presides-over-military-parade",
+          "title": "His Majesty Sultan Qaboos presides over military parade",
+          "work": "Times of Oman",
+          "access-date": "2018-12-02",
+          "language": "en-GB",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://www.muscatdaily.com/Archive/Oman/His-Majesty-the-Sultan-presides-over-48th-National-Day-military-parade-5c2j",
+          "title": "His Majesty the Sultan presides over 48th National Day military parade - Oman",
+          "last": "Newspaper",
+          "first": "Muscat Daily",
+          "work": "Muscat Daily News",
+          "access-date": "2018-12-02",
+          "language": "en",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url-status": "live",
+          "archive-url": "https://ghostarchive.org/varchive/youtube/20211208/Apj3x07luCs",
+          "archive-date": "2021-12-08",
+          "url": "https://www.youtube.com/watch?v=Apj3x07luCs",
+          "title": "Council of Defence issues a statement",
+          "website": "YouTube}}{{cbignore|undefined",
+          "template": "citation",
+          "type": "av media"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "oman-bio-stub"
+        }
+      ]
+    }
+  ]
+}
