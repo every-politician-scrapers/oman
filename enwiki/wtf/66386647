@@ -47,6 +47,13 @@
               "text": "He was officially appointed as Crown Prince after the Omani government decreed a constitutional adjustment which allows the Sultan to select an heir."
             }
           ]
+        },
+        {
+          "sentences": [
+            {
+              "text": "His father's predecessor is his paternal half first cousin once removed."
+            }
+          ]
         }
       ],
       "templates": [
@@ -325,6 +332,12 @@
           "url": "https://wikipedia.org/wiki/Special:Redirect/file/Theyazin_and_Haitham.jpg",
           "caption": "Theyazin (right) saluting his father (left), having graduated from Sandhurst in 2022",
           "links": []
+        }
+      ],
+      "templates": [
+        {
+          "date": "October 2022",
+          "template": "fv"
         }
       ],
       "infoboxes": [
