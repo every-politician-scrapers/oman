@@ -93,11 +93,6 @@
           "day": "21",
           "df": "yes",
           "template": "birth date and age"
-        },
-        {
-          "spouse": "Sayyida Mian bint Shihab Al Sa'id",
-          "from": "2021",
-          "template": "marriage"
         }
       ],
       "infoboxes": [
@@ -152,9 +147,6 @@
                 "page": "Muscat"
               }
             ]
-          },
-          "spouse": {
-            "text": "Sayyida Mian bint Shihab Al Sa'id (m. 2021)"
           },
           "nationality": {
             "text": "Omani",
