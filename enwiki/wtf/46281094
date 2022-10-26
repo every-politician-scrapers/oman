@@ -951,7 +951,11 @@
     },
     {
       "title": "Foreign honours",
-      "depth": 1,
+      "depth": 1
+    },
+    {
+      "title": "Honours",
+      "depth": 0,
       "paragraphs": [
         {
           "sentences": []
@@ -965,6 +969,19 @@
       ],
       "lists": [
         [
+          {
+            "text": "🇧🇭 Bahrain:",
+            "links": [
+              {
+                "text": "Bahrain",
+                "type": "internal",
+                "page": "bahrain"
+              }
+            ]
+          },
+          {
+            "text": "Order of Sheikh Isa ibn Salman Al Khalifa.gif Member Exceptional Class of the Order of Isa bin Salman Al Khalifa (24 October 2022)"
+          },
           {
             "text": "🇯🇴 Jordan",
             "links": [
@@ -1077,6 +1094,12 @@
         ]
       ],
       "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
         {
           "template": "citation",
           "type": "inline",
