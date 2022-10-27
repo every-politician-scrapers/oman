@@ -23,7 +23,7 @@
         {
           "sentences": [
             {
-              "text": "Haitham bin Tariq Al Said (هيثم بن طارق آل سعيد; born 11 October 1955  ) is the current Sultan of Oman.",
+              "text": "Haitham bin Tariq Al Said (هيثم بن طارق آل سعيد; born 13 October 1954  ) is the current Sultan of Oman.",
               "links": [
                 {
                   "type": "internal",
@@ -128,9 +128,9 @@
           "template": "labeldata"
         },
         {
-          "year": "1955",
+          "year": "1954",
           "month": "10",
-          "day": "11",
+          "day": "13",
           "df": "y",
           "template": "birth date and age"
         },
@@ -275,7 +275,7 @@
             "text": "1986 – 1994"
           },
           "birth_date": {
-            "text": "October 11, 1955"
+            "text": "October 13, 1954"
           },
           "birth_place": {
             "text": "Muscat, Oman",
