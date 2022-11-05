@@ -923,8 +923,16 @@
       ]
     },
     {
-      "title": "Awards and decorations",
+      "title": "Honours",
       "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": []
+        },
+        {
+          "sentences": []
+        }
+      ],
       "infoboxes": [
         {
           "royal name": {
@@ -947,30 +955,11 @@
             "text": "Your Majesty"
           }
         }
-      ]
-    },
-    {
-      "title": "Foreign honours",
-      "depth": 1
-    },
-    {
-      "title": "Honours",
-      "depth": 0,
-      "paragraphs": [
-        {
-          "sentences": []
-        },
-        {
-          "sentences": []
-        },
-        {
-          "sentences": []
-        }
       ],
       "lists": [
         [
           {
-            "text": "🇧🇭 Bahrain:",
+            "text": "🇧🇭 Bahrain: Member Exceptional Class of the Order of Isa bin Salman Al Khalifa (24 October 2022)",
             "links": [
               {
                 "text": "Bahrain",
@@ -980,21 +969,13 @@
             ]
           },
           {
-            "text": "Order of Sheikh Isa ibn Salman Al Khalifa.gif Member Exceptional Class of the Order of Isa bin Salman Al Khalifa (24 October 2022)"
-          },
-          {
-            "text": "🇯🇴 Jordan",
+            "text": "🇯🇴 Jordan Grand Cordon of the Supreme Order of the Renaissance (4 October 2022)",
             "links": [
               {
                 "text": "Jordan",
                 "type": "internal",
                 "page": "jordan"
-              }
-            ]
-          },
-          {
-            "text": "JOR Order of the Renaissance GC.SVG Grand Cordon of the Supreme Order of the Renaissance (4 October 2022)",
-            "links": [
+              },
               {
                 "type": "internal",
                 "page": "Supreme Order of the Renaissance"
@@ -1002,24 +983,50 @@
             ]
           },
           {
-            "text": "🇸🇦 Saudi Arabia:",
+            "text": "🇶🇦 Qatar: Sword of the Founder Sheikh Jassim bin Mohammed bin Thani (22 November 2021)",
+            "links": [
+              {
+                "text": "Qatar",
+                "type": "internal",
+                "page": "qatar"
+              },
+              {
+                "text": "Jassim bin Mohammed bin Thani",
+                "type": "internal",
+                "page": "Jassim bin Mohammed Al Thani"
+              }
+            ]
+          },
+          {
+            "text": "🇸🇦 Saudi Arabia: Collar of the Order of Abdulaziz al Saud (11 July 2021 - I Class, 24 December 2006)",
             "links": [
               {
                 "text": "Saudi Arabia",
                 "type": "internal",
                 "page": "saudi arabia"
-              }
-            ]
-          },
-          {
-            "text": "SA Order of King Abdulaziz 1kl rib.png Collar of the Order of Abdulaziz al Saud (11 July 2021 - I Class, 24 December 2006)",
-            "links": [
+              },
               {
                 "type": "internal",
                 "page": "Order of Abdulaziz al Saud"
               }
             ]
           },
+          {
+            "text": "🇦🇪 United Arab Emirates: Collar of the Order of Zayed (27 September 2022)",
+            "links": [
+              {
+                "text": "United Arab Emirates",
+                "type": "internal",
+                "page": "united arab emirates"
+              },
+              {
+                "type": "internal",
+                "page": "Order of Zayed"
+              }
+            ]
+          }
+        ],
+        [
           {
             "text": "🇬🇧 United Kingdom:",
             "links": [
@@ -1031,7 +1038,7 @@
             ]
           },
           {
-            "text": "UK Royal Victorian Order honorary member ribbon.svg Honorary Knight Grand Cross of the Royal Victorian Order (GCVO) (26 November 2010)",
+            "text": "Honorary Knight Grand Cross of the Royal Victorian Order (GCVO) (26 November 2010)",
             "links": [
               {
                 "type": "internal",
@@ -1040,54 +1047,11 @@
             ]
           },
           {
-            "text": "UK Order St-Michael St-George ribbon.svg Honorary Knight Grand Cross of the Order of St Michael and St George (GCMG) (15 December 2021)",
+            "text": "Honorary Knight Grand Cross of the Order of St Michael and St George (GCMG) (15 December 2021)",
             "links": [
               {
                 "type": "internal",
                 "page": "Order of St Michael and St George"
-              }
-            ]
-          }
-        ],
-        [
-          {
-            "text": "🇶🇦 Qatar:",
-            "links": [
-              {
-                "text": "Qatar",
-                "type": "internal",
-                "page": "qatar"
-              }
-            ]
-          },
-          {
-            "text": "Sword of the Founder Sheikh Jassim bin Mohammed bin Thani (22 November 2021)",
-            "links": [
-              {
-                "text": "Jassim bin Mohammed bin Thani",
-                "type": "internal",
-                "page": "Jassim bin Mohammed Al Thani"
-              }
-            ]
-          }
-        ],
-        [
-          {
-            "text": "🇦🇪 United Arab Emirates:",
-            "links": [
-              {
-                "text": "United Arab Emirates",
-                "type": "internal",
-                "page": "united arab emirates"
-              }
-            ]
-          },
-          {
-            "text": "Order Zayed rib.png Collar of the Order of Zayed (27 September 2022)",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Order of Zayed"
               }
             ]
           }
@@ -1107,11 +1071,30 @@
           "inline": {}
         },
         {
+          "date": "22 November 2021",
+          "title": "His Majesty, Emir of Qatar exchange honours",
+          "url": "https://timesofoman.com/article/109664-his-majesty-emir-of-qatar-exchange-honours",
+          "access-date": "2021-12-16",
+          "work": "Times of Oman",
+          "language": "en",
+          "template": "citation",
+          "type": "news"
+        },
+        {
           "title": "Sultan Haitham in Saudi Arabia in first visit by Omani leader in over a decade",
           "url": "https://gulfnews.com/world/gulf/oman/sultan-haitham-in-saudi-arabia-in-first-visit-by-omani-leader-in-over-a-decade-1.80581926",
           "access-date": "2021-12-16",
           "website": "gulfnews.com",
           "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2022-09-27",
+          "title": "UAE President, the Sultan of Oman exchange medals and gifts",
+          "url": "http://wam.ae/en/details/1395303087494",
+          "access-date": "2022-09-27",
+          "website": "wam",
           "template": "citation",
           "type": "web"
         },
@@ -1136,25 +1119,6 @@
           "access-date": "2021-12-16",
           "website": "Oman Observer",
           "language": "en",
-          "template": "citation",
-          "type": "web"
-        },
-        {
-          "date": "22 November 2021",
-          "title": "His Majesty, Emir of Qatar exchange honours",
-          "url": "https://timesofoman.com/article/109664-his-majesty-emir-of-qatar-exchange-honours",
-          "access-date": "2021-12-16",
-          "work": "Times of Oman",
-          "language": "en",
-          "template": "citation",
-          "type": "news"
-        },
-        {
-          "date": "2022-09-27",
-          "title": "UAE President, the Sultan of Oman exchange medals and gifts",
-          "url": "http://wam.ae/en/details/1395303087494",
-          "access-date": "2022-09-27",
-          "website": "wam",
           "template": "citation",
           "type": "web"
         }

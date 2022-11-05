@@ -93,6 +93,11 @@
           "day": "21",
           "df": "yes",
           "template": "birth date and age"
+        },
+        {
+          "spouse": "Meyyan bint Shahib Al Said",
+          "from": "11 November 2021",
+          "template": "marriage"
         }
       ],
       "infoboxes": [
@@ -200,6 +205,9 @@
                 "page": "Ibadi Islam"
               }
             ]
+          },
+          "spouse": {
+            "text": "Meyyan bint Shahib Al Said (m. 11 November 2021)"
           }
         }
       ],
