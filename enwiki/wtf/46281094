@@ -23,7 +23,7 @@
         {
           "sentences": [
             {
-              "text": "Haitham bin Tariq Al Said (هيثم بن طارق آل سعيد; born 13 October 1954  ) is the current Sultan of Oman.",
+              "text": "Haitham bin Tariq Al Said (هيثم بن طارق آل سعيد; born 13 October 1954)  is the current Sultan of Oman.",
               "links": [
                 {
                   "type": "internal",
@@ -352,6 +352,16 @@
           "publisher": "BBC",
           "date": "21 January 2020",
           "access-date": "21 January 2020",
+          "template": "citation",
+          "type": "news"
+        },
+        {
+          "url": "https://m.gulf-times.com/Story/653088",
+          "title": "Who is Sultan Haitham bin Tariq al-Said, the successor of Sultan Qaboos?",
+          "date": "2020-01-12",
+          "work": "Gulf Times",
+          "access-date": "2022-11-09",
+          "language": "en",
           "template": "citation",
           "type": "news"
         },
@@ -777,7 +787,14 @@
           "file": "File:Secretary_Pompeo_Meets_with_the_Sultan_of_Oman_Haitham_bin_Tariq_Al_Said_(49565463757).jpg",
           "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Secretary_Pompeo_Meets_with_the_Sultan_of_Oman_Haitham_bin_Tariq_Al_Said_(49565463757).jpg?width=300",
           "url": "https://wikipedia.org/wiki/Special:Redirect/file/Secretary_Pompeo_Meets_with_the_Sultan_of_Oman_Haitham_bin_Tariq_Al_Said_(49565463757).jpg",
-          "caption": "Sultan Haitham bin Tariq meets with U.S. Secretary of State Mike Pompeo in Muscat, February 2020",
+          "caption": "Haitham bin Tariq (right) meets with U.S. Secretary of State Mike Pompeo in Muscat, February 2020",
+          "links": []
+        },
+        {
+          "file": "File:Theyazin_and_Haitham.jpg",
+          "thumb": "https://wikipedia.org/wiki/Special:Redirect/file/Theyazin_and_Haitham.jpg?width=300",
+          "url": "https://wikipedia.org/wiki/Special:Redirect/file/Theyazin_and_Haitham.jpg",
+          "caption": "Sultan Haitham is saluted by his son, Crown Prince Theyazin bin Haitham (right), following the latter's graduation from Sandhurst in July 2022",
           "links": []
         }
       ],
