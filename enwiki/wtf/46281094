@@ -976,7 +976,7 @@
       "lists": [
         [
           {
-            "text": "🇧🇭 Bahrain: Member Exceptional Class of the Order of Isa bin Salman Al Khalifa (24 October 2022)",
+            "text": "🇧🇭 Bahrain: Member Exceptional Class of the Order of Isa bin Salman Al Khalifa (24 October 2022).",
             "links": [
               {
                 "text": "Bahrain",
@@ -986,7 +986,7 @@
             ]
           },
           {
-            "text": "🇯🇴 Jordan Grand Cordon of the Supreme Order of the Renaissance (4 October 2022)",
+            "text": "🇯🇴 Jordan Grand Cordon of the Supreme Order of the Renaissance (4 October 2022).",
             "links": [
               {
                 "text": "Jordan",
@@ -1000,7 +1000,7 @@
             ]
           },
           {
-            "text": "🇶🇦 Qatar: Sword of the Founder Sheikh Jassim bin Mohammed bin Thani (22 November 2021)",
+            "text": "🇶🇦 Qatar: Sword of the Founder Sheikh Jassim bin Mohammed bin Thani (22 November 2021).",
             "links": [
               {
                 "text": "Qatar",
@@ -1015,7 +1015,7 @@
             ]
           },
           {
-            "text": "🇸🇦 Saudi Arabia: Collar of the Order of Abdulaziz al Saud (11 July 2021 - I Class, 24 December 2006)",
+            "text": "🇸🇦 Saudi Arabia: Collar of the Order of Abdulaziz al Saud (11 July 2021 - I Class, 24 December 2006).",
             "links": [
               {
                 "text": "Saudi Arabia",
@@ -1029,7 +1029,7 @@
             ]
           },
           {
-            "text": "🇦🇪 United Arab Emirates: Collar of the Order of Zayed (27 September 2022)",
+            "text": "🇦🇪 United Arab Emirates: Collar of the Order of Zayed (27 September 2022).",
             "links": [
               {
                 "text": "United Arab Emirates",
@@ -1055,7 +1055,7 @@
             ]
           },
           {
-            "text": "Honorary Knight Grand Cross of the Royal Victorian Order (GCVO) (26 November 2010)",
+            "text": "Honorary Knight Grand Cross of the Royal Victorian Order (GCVO) (26 November 2010).",
             "links": [
               {
                 "type": "internal",
@@ -1064,7 +1064,7 @@
             ]
           },
           {
-            "text": "Honorary Knight Grand Cross of the Order of St Michael and St George (GCMG) (15 December 2021)",
+            "text": "Honorary Knight Grand Cross of the Order of St Michael and St George (GCMG) (15 December 2021).",
             "links": [
               {
                 "type": "internal",
@@ -1076,16 +1076,24 @@
       ],
       "references": [
         {
+          "url": "https://www.wam.ae/en/details/1395303094493",
+          "title": "Bahraini King holds talks with Sultan of Oman",
+          "date": "2022-10-25",
+          "work": "Emirates News Agency",
+          "access-date": "2022-11-10",
+          "language": "en",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "news"
         },
         {
+          "url": "https://www.albawaba.com/amp/news/jordans-king-abdullah-oman-exchange-medals-sultan-haitham-1493646/",
+          "title": "Jordan's King Abdullah in Oman, Exchange Medals With Sultan Haitham",
+          "date": "2022-10-05",
+          "work": "Al Bawaba",
+          "access-date": "2022-11-10",
+          "language": "en",
           "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
+          "type": "news"
         },
         {
           "date": "22 November 2021",
