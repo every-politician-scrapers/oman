@@ -490,12 +490,14 @@
       ],
       "references": [
         {
-          "title": "Oldest son of Oman's sultan becomes country's first crown prince",
           "url": "https://www.aljazeera.com/news/2021/1/12/omani-sultans-eldest-son-becomes-first-crown-prince",
-          "website": "www.aljazeera.com",
+          "title": "Oldest son of Oman’s sultan becomes country’s first crown prince",
+          "date": "2021-01-12",
+          "work": "Al Jazeera",
+          "access-date": "2022-11-11",
           "language": "en",
           "template": "citation",
-          "type": "web"
+          "type": "news"
         },
         {
           "url": "https://www.arabnews.com/node/1611351/middle-east",
