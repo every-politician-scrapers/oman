@@ -21,6 +21,10 @@
               "links": [
                 {
                   "type": "internal",
+                  "page": "Sayyid"
+                },
+                {
+                  "type": "internal",
                   "page": "Oman"
                 }
               ],
@@ -96,11 +100,11 @@
             "text": "18 August 2020"
           },
           "monarch": {
-            "text": "Haitham bin Tarik",
+            "text": "Haitham bin Tariq",
             "links": [
               {
                 "type": "internal",
-                "page": "Haitham bin Tarik"
+                "page": "Haitham bin Tariq"
               }
             ]
           },
