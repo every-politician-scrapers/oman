@@ -978,12 +978,16 @@
       "lists": [
         [
           {
-            "text": "🇧🇭 Bahrain: Member Exceptional Class of the Order of Isa bin Salman Al Khalifa (24 October 2022).",
+            "text": "🇧🇭 Bahrain: Member Exceptional Class of the Order of Sheikh Isa bin Salman Al Khalifa (24 October 2022).",
             "links": [
               {
                 "text": "Bahrain",
                 "type": "internal",
                 "page": "bahrain"
+              },
+              {
+                "type": "internal",
+                "page": "Order of Sheikh Isa bin Salman Al Khalifa"
               }
             ]
           },
