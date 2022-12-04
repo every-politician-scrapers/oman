@@ -495,7 +495,6 @@
           "date": "2021-01-12",
           "work": "Al Jazeera",
           "access-date": "2022-11-11",
-          "language": "en",
           "template": "citation",
           "type": "news"
         },
@@ -577,8 +576,12 @@
               "text": "Haitham is also chairman of the committee for the future vision of \"Oman 2040\" along with being honorary president of the Oman Association for the Disabled."
             },
             {
-              "text": "His record in government under Qaboos has been described by The Economist as poor.",
+              "text": "His record in government under Sultan Qaboos bin Said has been described by The Economist as poor.",
               "links": [
+                {
+                  "type": "internal",
+                  "page": "Qaboos bin Said"
+                },
                 {
                   "type": "internal",
                   "page": "The Economist"
@@ -664,12 +667,8 @@
         {
           "sentences": [
             {
-              "text": "After the death of his first cousin Sultan Qaboos on 10 January 2020, Haitham bin Tariq was named by the royal family and Qaboos's will as Sultan of Oman the next day and took an oath before an emergency session of the Council of Oman in Al-Bustan.",
+              "text": "After the death of Sultan Qaboos, Haitham's first cousin, on 10 January 2020, Haitham was named by the royal family and Qaboos's will as Sultan of Oman the next day and took an oath before an emergency session of the Council of Oman in Al-Bustan.",
               "links": [
-                {
-                  "type": "internal",
-                  "page": "Sultan Qaboos"
-                },
                 {
                   "type": "internal",
                   "page": "Sultan of Oman"
@@ -689,7 +688,7 @@
               "text": "Oman state TV said the former sultan's letter was opened by the Defence Council and his identity was announced shortly thereafter."
             },
             {
-              "text": "As sultan, he also held the positions of prime minister, supreme commander of the armed forces, minister of defence, minister of finance, and minister of foreign affairs until 18 August 2020 when he appointed Sayyid Badr bin Hamad bin Hamood Al Busaidi as Foreign Minister and Sultan bin Salem bin Saeed al-Habsi as minister of finance.",
+              "text": "As sultan, he also held the positions of prime minister, supreme commander of the armed forces, minister of defence, minister of finance, and minister of foreign affairs until 18 August 2020 when he appointed Sayyid Badr bin Hamad bin Hamood Al Busaidi as foreign minister and Sultan bin Salem bin Saeed al-Habsi as minister of finance.",
               "links": [
                 {
                   "type": "internal",
@@ -731,7 +730,7 @@
         {
           "sentences": [
             {
-              "text": "In May and June 2021, there were many protests against the government over economic concerns such as unemployment and corruption."
+              "text": "In May and June 2021, there were many protests against the Omani government over economic concerns such as unemployment and corruption."
             },
             {
               "text": "Some protesters were arrested and then released."
@@ -747,11 +746,11 @@
               "text": "His visit to Saudi Arabia was the first political visit by an Omani royal to the kingdom in over a decade."
             },
             {
-              "text": "During his visit to the United Kingdom, he met Elizabeth II at Windsor Castle and was honoured with a GCMG.",
+              "text": "During his visit to the United Kingdom, he met Queen Elizabeth II at Windsor Castle and was honoured with a GCMG.",
               "links": [
                 {
                   "type": "internal",
-                  "page": "Elizabeth II"
+                  "page": "Queen Elizabeth II"
                 },
                 {
                   "type": "internal",
@@ -764,12 +763,12 @@
               ]
             },
             {
-              "text": "On 19 September 2022, Haitham attended the state funeral of Queen Elizabeth II at Westminster Abbey, London.",
+              "text": "On 19 September 2022, Haitham attended the state funeral of Elizabeth II at Westminster Abbey, London.",
               "links": [
                 {
-                  "text": "state funeral of Queen Elizabeth II",
+                  "text": "state funeral of Elizabeth II",
                   "type": "internal",
-                  "page": "Death and state funeral of Elizabeth II"
+                  "page": "state funeral of Elizabeth II"
                 },
                 {
                   "type": "internal",
