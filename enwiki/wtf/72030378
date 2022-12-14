@@ -1,0 +1,105 @@
+{
+  "title": "Khalid Al Mawali",
+  "pageID": 72030378,
+  "categories": [
+    "Omani politicians",
+    "Year of birth missing (living people)",
+    "Living people"
+  ],
+  "sections": [
+    {
+      "title": "",
+      "depth": 0,
+      "paragraphs": [
+        {
+          "sentences": [
+            {
+              "text": "Khalid Al Mawali is a politician and entrepreneur from Oman who is serving as Chairmen of the Consultative Assembly  for three times.",
+              "links": [
+                {
+                  "type": "internal",
+                  "page": "Oman"
+                },
+                {
+                  "text": "Chairmen of the Consultative Assembly",
+                  "type": "internal",
+                  "page": "Chairmen of the Consultative Assembly of Oman"
+                }
+              ],
+              "formatting": {
+                "bold": [
+                  "Khalid Al Mawali"
+                ]
+              }
+            }
+          ]
+        }
+      ],
+      "templates": [
+        {
+          "description": "Omani politician",
+          "template": "short description"
+        }
+      ],
+      "references": [
+        {
+          "title": "Young entrepreneur elected Oman Shura chairman",
+          "url": "https://gulfnews.com/world/gulf/oman/young-entrepreneur-elected-oman-shura-chairman-1.920338",
+          "access-date": "2022-10-17",
+          "website": "Gulf News",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "2018-07-05",
+          "title": "Oman",
+          "url": "https://data.ipu.org/content/oman",
+          "access-date": "2022-10-17",
+          "website": "Inter-Parliamentary Union",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Khalid Al-Mawali re-elected as head of Oman's consultative assembly",
+          "url": "http://www.xinhuanet.com/english/2019-11/04/c_138525913.htm",
+          "access-date": "2022-10-17",
+          "website": "Xinhua News Agency",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "title": "Al Mawali re-elected as Majlis Al Shura chairman",
+          "url": "https://timesofoman.com/article/2166710/Oman/Al-Mawali-re-elected-as-Majlis-Al-Shura-chairman",
+          "access-date": "2022-10-17",
+          "website": "Times of Oman",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "last": "Nasseri",
+          "first": "Zainab Al",
+          "date": "2019-11-03",
+          "title": "Khalid al Ma'wali elected Shura chairman for third time",
+          "url": "https://www.omanobserver.om/article/21954/Main/khalid-al-mawali-elected-shura-chairman-for-third-time",
+          "access-date": "2022-10-17",
+          "website": "Oman Observer",
+          "language": "en",
+          "template": "citation",
+          "type": "web"
+        }
+      ]
+    },
+    {
+      "title": "References",
+      "depth": 0,
+      "templates": [
+        {
+          "template": "oman-politician-stub"
+        }
+      ]
+    }
+  ]
+}
