@@ -23,7 +23,7 @@
         {
           "sentences": [
             {
-              "text": "Theyazin bin Haitham Al Said (ذي يزن بن هيثم آل سعيد; born 21 August 1990) is Crown Prince of Oman as the son of Sultan Haitham bin Tariq.",
+              "text": "Theyazin bin Haitham Al Said (ذي يزن بن هيثم آل سعيد; born 21 August 1990) is the Crown Prince of Oman as the son of Sultan Haitham bin Tariq.",
               "links": [
                 {
                   "type": "internal",
@@ -51,7 +51,7 @@
       ],
       "templates": [
         {
-          "description": "Omani diplomat (born 1990)",
+          "description": "Crown Prince of Oman (born 1990)",
           "template": "short description"
         },
         {
@@ -59,44 +59,33 @@
           "template": "use dmy dates"
         },
         {
-          "template": "date",
-          "data": {
-            "year": "2021",
-            "month": "01",
-            "date": "13",
-            "df": "yes",
-            "template": "start date",
-            "text": "January 13, 2021"
-          }
-        },
-        {
-          "template": "date",
-          "data": {
-            "year": "2020",
-            "month": "08",
-            "date": "18",
-            "df": "yes",
-            "template": "start date",
-            "text": "August 18, 2020"
-          }
-        },
-        {
           "year": "1990",
           "month": "08",
           "day": "21",
-          "df": "yes",
+          "df": "y",
           "template": "birth date and age"
+        },
+        {
+          "spouse": "Meyyan Bint Shihab Al Said",
+          "from": "2021",
+          "template": "marriage"
         }
       ],
       "infoboxes": [
         {
+          "consort": {
+            "text": "yes"
+          },
           "image": {
             "text": "ذي يزن بن هيثم آل سعيد.png"
           },
           "caption": {
-            "text": "The Crown Prince in 2021"
+            "text": "Theyazin in 2021"
           },
-          "honorific_suffix": {
+          "alt": {
+            "text": "A photograph of Theyazin bin Haitham aged 30"
+          },
+          "succession": {
             "text": "Crown Prince of Oman",
             "links": [
               {
@@ -105,10 +94,13 @@
               }
             ]
           },
-          "office1": {
-            "text": "Crown Prince of the Sultanate of Oman"
+          "reign": {
+            "text": "13 January 2021 – present"
           },
-          "monarch1": {
+          "reg-type": {
+            "text": "Monarch"
+          },
+          "regent": {
             "text": "Haitham bin Tariq",
             "links": [
               {
@@ -117,17 +109,25 @@
               }
             ]
           },
-          "term_start1": {
-            "text": "January 13, 2021"
+          "predecessor": {
+            "text": "Position established",
+            "formatting": {
+              "italic": [
+                "Position established"
+              ]
+            }
           },
-          "office2": {
+          "succession1": {
             "text": "Minister of Culture, Sports and Youth"
           },
-          "term_start2": {
-            "text": "August 18, 2020"
+          "reign1": {
+            "text": "18 August 2020 – present"
           },
-          "primeminister2": {
-            "text": "Sultan Haitham bin Tariq"
+          "reg-type1": {
+            "text": "Prime Minister"
+          },
+          "regent1": {
+            "text": "Haitham bin Tariq"
           },
           "birth_date": {
             "text": "August 21, 1990"
@@ -141,13 +141,27 @@
               }
             ]
           },
-          "nationality": {
-            "text": "Omani",
+          "spouse": {
+            "text": "Meyyan Bint Shihab Al Said (m. 2021)"
+          },
+          "full name": {
+            "text": "Theyazin bin Haitham bin Tariq bin Taimur bin Faisal bin Turki bin Said Al Said"
+          },
+          "house": {
+            "text": "Al Said",
             "links": [
               {
-                "text": "Omani",
                 "type": "internal",
-                "page": "Omani people"
+                "page": "Al Said"
+              }
+            ]
+          },
+          "religion": {
+            "text": "Ibadi Islam",
+            "links": [
+              {
+                "type": "internal",
+                "page": "Ibadi Islam"
               }
             ]
           },
@@ -168,40 +182,25 @@
                 "page": "Ahad bint Abdullah"
               }
             ]
-          },
-          "alma_mater": {
-            "text": "Oxford Brookes University Royal Military Academy Sandhurst",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Oxford Brookes University"
-              },
-              {
-                "type": "internal",
-                "page": "Royal Military Academy Sandhurst"
-              }
-            ]
-          },
-          "blank1": {
-            "text": "Religion"
-          },
-          "data1": {
-            "text": "Ibadi Islam",
-            "links": [
-              {
-                "type": "internal",
-                "page": "Ibadi Islam"
-              }
-            ]
           }
         }
       ],
       "references": [
         {
-          "date": "2021-01-12",
+          "date": "9 November 2021",
+          "title": "Oman’s Crown Prince is set to wed HH Sayyida Meyyan this week",
+          "url": "https://emirateswoman.com/omans-crown-prince-set-wed-hh-sayyida-meyyan-week/",
+          "access-date": "15 December 2022",
+          "website": "EMIRATES WOMAN",
+          "language": "en-UK",
+          "template": "citation",
+          "type": "web"
+        },
+        {
+          "date": "12 January 2021",
           "title": "Oman designates a crown prince, a first for the country",
           "url": "https://www.atlanticcouncil.org/blogs/menasource/oman-designates-a-crown-prince-a-first-for-the-country/",
-          "access-date": "2021-01-15",
+          "access-date": "15 January 2021",
           "website": "Atlantic Council",
           "language": "en-US",
           "template": "citation",
