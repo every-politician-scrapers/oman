@@ -23,11 +23,15 @@
         {
           "sentences": [
             {
-              "text": "Haitham bin Tariq Al Said (هيثم بن طارق آل سعيد; born 13 October 1954)  is the current Sultan of Oman.",
+              "text": "Haitham bin Tariq Al Said (هيثم بن طارق آل سعيد; born 13 October 1954)  is the current Sultan of Oman, reigning since January 2020 following the death of his cousin, Sultan Qaboos bin Said.",
               "links": [
                 {
                   "type": "internal",
                   "page": "Sultan of Oman"
+                },
+                {
+                  "type": "internal",
+                  "page": "Qaboos bin Said"
                 }
               ],
               "formatting": {

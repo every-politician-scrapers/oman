@@ -53,10 +53,28 @@
           },
           "education": {
             "text": "University of California, Berkeley alumni"
+          },
+          "birth_place": {
+            "text": "Oman"
+          },
+          "years_active": {
+            "text": "2011-now"
           }
         }
       ],
       "references": [
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
+        {
+          "template": "citation",
+          "type": "inline",
+          "data": {},
+          "inline": {}
+        },
         {
           "template": "citation",
           "type": "inline",
