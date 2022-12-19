@@ -1,14 +1,22 @@
 {
-  "office1": "Crown Prince of the Sultanate of Oman",
-  "term_start1": "January 13, 2021",
-  "office2": "Minister of Culture, Sports and Youth",
-  "term_start2": "August 18, 2020",
+  "consort": "yes",
+  "alt": "A photograph of Theyazin bin Haitham aged 30",
+  "succession": "Crown Prince of Oman",
+  "reign": "13 January 2021 – present",
+  "reg-type": "Monarch",
+  "regent": "Haitham bin Tariq",
+  "predecessor": "Position established",
+  "succession1": "Minister of Culture, Sports and Youth",
+  "reign1": "18 August 2020 – present",
+  "reg-type1": "Prime Minister",
+  "regent1": "Haitham bin Tariq",
   "birth_date": "August 21, 1990",
+  "spouse": "Meyyan Bint Shihab Al Said (m. 2021)",
+  "full name": "Theyazin bin Haitham bin Tariq bin Taimur bin Faisal bin Turki bin Said Al Said",
+  "house": "Al Said",
+  "religion": "Ibadi Islam",
   "father": "Haitham bin Tariq",
-  "mother": "Ahad bint Abdullah",
-  "alma_mater": "Oxford Brookes University Royal Military Academy Sandhurst",
-  "blank1": "Religion",
-  "data1": "Ibadi Islam"
+  "mother": "Ahad bint Abdullah"
 }
 {
   "royal name": "Crown Prince of Oman",
