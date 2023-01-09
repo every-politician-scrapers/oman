@@ -66,7 +66,7 @@
           "template": "birth date and age"
         },
         {
-          "spouse": "Meyyan Bint Shihab Al Said, full 1st cousin",
+          "spouse": "Meyyan Bint Shihab Al Said",
           "from": "2021",
           "template": "marriage"
         }
@@ -142,7 +142,7 @@
             ]
           },
           "spouse": {
-            "text": "Meyyan Bint Shihab Al Said, full 1st cousin (m. 2021) (divorced after 3 months)"
+            "text": "Meyyan Bint Shihab Al Said (m. 2021)"
           },
           "full name": {
             "text": "Theyazin bin Haitham bin Tariq bin Taimur bin Faisal bin Turki bin Said Al Said"
@@ -195,12 +195,6 @@
           "language": "en-UK",
           "template": "citation",
           "type": "web"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
         },
         {
           "date": "12 January 2021",
@@ -324,6 +318,12 @@
           "links": []
         }
       ],
+      "templates": [
+        {
+          "date": "October 2022",
+          "template": "fv"
+        }
+      ],
       "infoboxes": [
         {
           "royal name": {
@@ -372,12 +372,6 @@
           "access-date": "2021-01-15",
           "template": "citation",
           "type": "news"
-        },
-        {
-          "template": "citation",
-          "type": "inline",
-          "data": {},
-          "inline": {}
         },
         {
           "template": "citation",
